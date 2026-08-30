@@ -61,7 +61,7 @@ export default function AdminLoginPage() {
         </form>
 
         <p className="mt-6 text-sm text-gray-500">
-          Default login: username <span className="font-semibold text-gray-700">admin</span> and password <span className="font-semibold text-gray-700">ashraya2026</span>
+          Default login: username <span className="font-semibold text-gray-700">.</span> and password <span className="font-semibold text-gray-700">.</span>
         </p>
 
         <Link href="/" className="mt-6 inline-block text-sm font-semibold text-amber-700">
